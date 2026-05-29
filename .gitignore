@@ -1,0 +1,8 @@
+token.txt
+.venv/
+build/
+dist/
+__pycache__/
+*.pyc
+*.log
+_test_build_tmp.py
